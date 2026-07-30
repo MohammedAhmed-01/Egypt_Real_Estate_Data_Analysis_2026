@@ -1,0 +1,16 @@
+pandas
+numpy
+matplotlib
+seaborn
+scipy
+scikit-learn
+xgboost
+nltk
+textblob
+vaderSentiment
+wordcloud
+langdetect
+prophet
+statsmodels
+jupyter
+ipykernel

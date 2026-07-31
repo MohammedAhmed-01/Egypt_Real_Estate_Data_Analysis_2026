@@ -2,6 +2,8 @@ pandas
 numpy
 matplotlib
 seaborn
+plotly
+folium
 scipy
 scikit-learn
 xgboost
@@ -12,5 +14,4 @@ wordcloud
 langdetect
 prophet
 statsmodels
-jupyter
 ipykernel

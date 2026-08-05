@@ -49,7 +49,7 @@
 |:--:|:--:|:--:|:--:|
 | [🎯 Overview](#-project-overview) | [🏗️ Architecture](#️-architectural-flow) | [🗃️ Dataset](#️-dataset) | [🌳 Structure](#-repository-structure) |
 | [🔬 Notebooks](#-the-analytical-notebooks) | [📊 Dashboards](#-bi-dashboards-purely-descriptive) | [📦 Outputs](#-output-files) | [🚀 Setup](#-setup--installation) |
-| [🧰 Libraries](#-libraries--dependencies) | [🧠 Design Decisions](#-design-decisions) | [❓ FAQ](#-frequently-asked-questions) | [📜 License](#-license) |
+| [🧰 Libraries](#-libraries--dependencies) | [🧠 Design Decisions](#-design-decisions) |  [📜 License](#-license) |
 
 </div>
 

@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 <!-- ANIMATED HEADER -->
@@ -47,9 +45,9 @@
 
 | | | | |
 |:--:|:--:|:--:|:--:|
-| [🎯 Overview](#-project-overview) | [🏗️ Architecture](#️-architectural-flow) | [🗃️ Dataset](#️-dataset) | [🌳 Structure](#-repository-structure) |
-| [🔬 Notebooks](#-the-analytical-notebooks) | [📊 Dashboards](#-bi-dashboards-purely-descriptive) | [📦 Outputs](#-output-files) | [🚀 Setup](#-setup--installation) |
-| [🧰 Libraries](#-libraries--dependencies) | [🧠 Design Decisions](#-design-decisions) |  [📜 License](#-license) |
+| [🎯 Overview](#-project-overview) | [📑 Deliverables](#-project-deliverables--documentation) | [🏗️ Architecture](#-architectural-flow) | [🗃️ Dataset](#-dataset) |
+| [🌳 Structure](#-repository-structure) | [🔬 Notebooks](#-the-analytical-notebooks) | [📊 Dashboards](#-bi-dashboards-purely-descriptive) | [📦 Outputs](#-output-files) |
+| [🚀 Setup](#-setup--installation) | [🧰 Libraries](#-libraries--dependencies) | [🧠 Design Decisions](#-design-decisions) | [📜 License](#-license) |
 
 </div>
 
@@ -73,6 +71,20 @@ This project deliberately **separates concerns**:
 <tr><td>💬</td><td><b>Do description sentiment & topics relate to price? <sub>(Notebook only)</sub></b></td></tr>
 <tr><td>🤖</td><td><b>Can we predict price and classify Buy vs Rent? <sub>(Notebook only)</sub></b></td></tr>
 </table>
+
+---
+
+## 📑 Project Deliverables & Documentation
+
+<div align="center">
+
+| 📄 Artifact | 🎯 Purpose | 🔗 Access |
+|:---|:---|:---:|
+| **Insights Report** | Deep-dive analysis, key findings & statistical summaries | [View Report](https://canva.link/ah03f776qwz47o5) |
+| **Stakeholder Presentation** | Executive summary, visual story & strategic recommendations | [View Presentation](https://canva.link/ujbd6b672xa0vld) |
+| **Business Impact & Design** | ROI analysis, design rationale & decision-making framework | [View Document](https://canva.link/uxlbr3x6yun8vc2) |
+
+</div>
 
 ---
 
